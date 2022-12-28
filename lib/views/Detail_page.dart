@@ -41,7 +41,7 @@ class _DetailPageState extends State<DetailPage> {
                     decoration: BoxDecoration(
                       image: const DecorationImage(
                         image: NetworkImage(
-                          'https://www.clipartmax.com/png/small/434-4349876_profile-icon-vector-png.png',
+                          'https://as2.ftcdn.net/v2/jpg/03/49/49/79/1000_F_349497933_Ly4im8BDmHLaLzgyKg2f2yZOvJjBtlw5.jpg',
                         ),
                         fit: BoxFit.fitHeight,
                       ),
